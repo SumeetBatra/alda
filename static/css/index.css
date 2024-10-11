@@ -155,3 +155,19 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+.large-figure {
+  width: 120%;
+  max-width: 1200px; /* Adjust this value as needed */
+  margin: 0 auto;
+}
+
+.large-figure img {
+  width: 120%;
+  height: auto;
+}
+
+.large-figure figcaption {
+  margin-top: 1rem;
+  font-size: 1.0rem; /* Adjust this value as needed */
+}
